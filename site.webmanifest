@@ -1,0 +1,14 @@
+{
+  "name": "Codeium · Free AI Code Completion & Chat",
+  "short_name": "Codeium",
+  "start_url": "https://codeium.com",
+  "display": "standalone",
+  "background_color": "#1D1F21",
+  "theme_color": "#09B6A2",
+  "description": "Codeium offers best in class AI code completion & search — all for free. It supports over 70+ languages and integrates with your favorite IDEs, with lightning fast speeds and state-of-the-art suggestion quality.",
+  "categories": ["productivity", "utilities", "personalization"],
+  "icons": [
+    { "src": "/static/favicons/192x192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "/static/favicons/512x512.png", "type": "image/png", "sizes": "512x512" }
+  ]
+}
